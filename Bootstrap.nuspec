@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
     <metadata>
         <id>Bootstrap</id>
-        <version>3.0.0-wip</version>
+        <version>3.0.0-wip-d483e77-0</version>
         <authors>Jacob Thornton,Mark Otto</authors>
         <owners>nugets</owners>
         <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
