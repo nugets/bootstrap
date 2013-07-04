@@ -1,0 +1,6 @@
+# Dependencies
+markdown:		rdiscount
+pygments:		true
+
+# Permalinks
+permalink:		pretty
