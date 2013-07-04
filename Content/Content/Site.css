@@ -3,6 +3,11 @@
     padding-bottom: 40px;
 }
 
+.navbar form {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 /* styles for validation helpers */
 .field-validation-error {
     color: #b94a48;
